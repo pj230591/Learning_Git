@@ -1,2 +1,2 @@
-My first file for Git
-extra commit for conflict
+Conflicting change
+
